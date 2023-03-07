@@ -1,0 +1,1 @@
+# PLATZI-curso-scope-closure
