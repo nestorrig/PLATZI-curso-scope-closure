@@ -26,3 +26,5 @@ console.log(without()); // pi is not defined
     // a veces, el código en modo estricto puede correr más rápido que un código idéntico pero no estricto.
 
 // 3. Prohíbe cierta sintaxis que probablemente sea definida en futuras versiones de ECMAScript.
+
+///NOTA: El modo estricto se aplica a un script completo o a funciones individuales. No se aplica a bloques entre corchetes {}; intentar aplicarlo en tales contextos no hace nada.
